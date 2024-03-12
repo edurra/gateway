@@ -660,8 +660,17 @@ ControlPlane is trusted as the partner of choice in securing: multinational bank
 # Threat Modelling Team
 
 James Callaghan
+
 Torin van den Bulk
+
+Eduardo Olarte
 
 # Reviewers
 
 Marco De Benedectis
+
+Arko Dasgupta
+
+Matt Turner
+
+Zack Butcher
