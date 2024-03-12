@@ -76,7 +76,7 @@ We will consider the following organisational roles, as per the [Gateway API sec
 
 Our threat model will be based on the high-level setup shown below, where Envoy is used in an edge-proxy scenario:
 
-[!Architecture](./images/architecture.png)
+![Architecture](./images/architecture.png)
 
 The following use cases will be considered, in line with the [Envoy Gateway User Guides](https://gateway.envoyproxy.io/latest/user/):
 1. Routing and controlling traffic, including:
@@ -149,11 +149,11 @@ The Data Flow Diagrams (DFDs) below describe the flow of data between the variou
 
 ## DFD L0
 
-[!DFD L0](./images/DFDL0.png)
+![DFD L0](./images/DFDL0.png)
 
 ## DFD L1
 
-[!DFD L1](./images/DFDL1.png)
+![DFD L1](./images/DFDL1.png)
 
 # Key Threats and Recommendations
 
@@ -621,35 +621,35 @@ Logical AND/OR operators are used to represent the relationship between parent a
 
 ### Attack Tree Node Legend
 
-[!AT Legend](./images/AT-legend.png)
+![AT Legend](./images/AT-legend.png)
 
 ### AT0
 
-[!AT0](./images/AT0.png)
+![AT0](./images/AT0.png)
 
 ### AT1
 
-[!AT1](./images/AT1.png)
+![AT1](./images/AT1.png)
 
 ### AT2
 
-[!AT2](./images/AT2.png)
+![AT2](./images/AT2.png)
 
 ### AT3
 
-[!AT3](./images/AT3.png)
+![AT3](./images/AT3.png)
 
 ### AT4
 
-[!AT4](./images/AT4.png)
+![AT4](./images/AT4.png)
 
 ### AT5
 
-[!AT5](./images/AT5.png)
+![AT5](./images/AT5.png)
 
 ### AT6
 
-[!AT6](./images/AT6.png)
+![AT6](./images/AT6.png)
 
 # About 
 
